@@ -153,6 +153,6 @@ $~$
 
 > I made this project by using [Copilotkit 🪁](https://github.com/CopilotKit) demo provided by them. I'm new to React/NextJs things, So, I made a few major and minor changes to this projects.I learnt a lot from this.
 
-<p align="left">
+<p align="center">
     Go and star ⭐ this awesome repo. <a href="https://github.com/CopilotKit" alt="copilotkit" >CopilotKit 🪁</a>
 </p>
