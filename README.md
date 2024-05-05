@@ -28,6 +28,7 @@
 https://github.com/RS-labhub/ToDo-List/assets/117426013/1119e787-e875-4f8d-9619-914f30cf68bf
 
 <p align="center">Video Demonstration</p>
+<br>
 
 ### Screenshots
 <p align="center">
@@ -39,9 +40,7 @@ https://github.com/RS-labhub/ToDo-List/assets/117426013/1119e787-e875-4f8d-9619-
   <br>
   <img src="Assets/Copilotkit.png"  />
   <p align="center">Using Copilotkit</p>
-  <br>
 </p>
-
 
 $~$
 
