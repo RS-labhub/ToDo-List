@@ -50,12 +50,12 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 
 
 # Dependecies
-1. NextJs
-2. React
-3. NodeJs
-4. TypeScript
-5. TailWind CSS
-6. Copilotkit 🪁
+1. **NextJs**
+2. *React*
+3. **NodeJs**
+4. *TypeScript*
+5. **TailWind CSS**
+6. *Copilotkit 🪁*
 
 <hr>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
@@ -100,11 +100,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
 <hr>
 
 $~$
-    
+
+## Setup
+
 **Set Up Your Environment**
 
 1. `Fork` our repository to your GitHub account. 
@@ -148,7 +149,7 @@ $~$
 <a href="https://www.linkedin.com/in/rohan-sharma-9386rs/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohan-sharma=9386" /></a>
 </p>
 
-> 📒 [!NOTE] 
+📒 **NOTE**
 
 > I made this project by using [Copilotkit 🪁](https://github.com/CopilotKit) demo provided by them. I'm new to React/NextJs things, So, I made a few major and minor changes to this projects.I learnt a lot from this.
 
